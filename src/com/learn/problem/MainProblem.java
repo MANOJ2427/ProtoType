@@ -3,6 +3,7 @@ package com.learn.problem;
 public class MainProblem {
 
     public static void main(String arg[]){
+
         BookShopProblem bookshop1= new BookShopProblem("BookShop");
         bookshop1.LoadData();//1-mins
 
